@@ -1,0 +1,17 @@
+{
+    "name": "juan/task",
+    "authors": [
+        {
+            "name": "Juan",
+            "email": "montoj@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "core\\": "core/"
+        }
+    }
+
+}
+
